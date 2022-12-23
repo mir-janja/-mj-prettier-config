@@ -1,0 +1,9 @@
+{
+  "name": "mj-prettier-config",
+  "version": "1.0.0",
+  "description": "My personal Prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:mir-janja/mj-prettier-config.git",
+  "author": "Mirjana Janjusevic <https://github.com/mir-janja>",
+  "license": "MIT"
+}
