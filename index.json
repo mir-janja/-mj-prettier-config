@@ -7,7 +7,7 @@
   "bracketSpacing": true,
   "arrowParens": "always",
   "printWidth": 100,
-  "singleAttributePerLine": true,
+  "singleAttributePerLine": false,
   "singleQuote": true,
   "trailingComma": "all",
   "endOfLine": "lf"
